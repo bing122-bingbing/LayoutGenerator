@@ -39,7 +39,7 @@
 			"type": "float",
 			"default": 128.0,
 			"min": 1.0,
-			"max": 3600.0,
+			"max": 10000.00,
 			"control": {
 				"arrows": true,
 				"arrow-step": 1.0,
